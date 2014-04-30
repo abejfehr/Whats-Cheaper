@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/WhatsCheaper.iml" filepath="$PROJECT_DIR$/WhatsCheaper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/whatscheaper/whatscheaper.iml" filepath="$PROJECT_DIR$/whatscheaper/whatscheaper.iml" />
+    </modules>
+  </component>
+</project>
+

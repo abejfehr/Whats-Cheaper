@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">What\'s Cheaper?</string>
+    <string name="price_text_hint">Price</string>
+    <string name="num_units_text_hint">Number of Units</string>
+    <string name="add_button_text">Add</string>
+    <string name="clear_button_text">Clear</string>
+    <string name="empty_list_text">To begin comparing prices,\nadd items to this list</string>
+    <string name="blank_price_error">Price cannot be blank!</string>
+    <string name="blank_units_error">Number of Units cannot be blank!</string>
+    <string name="successfully_cleared_list">Successfully cleared the list</string>
+    <string name="for_string">for</string>
+
+</resources>
