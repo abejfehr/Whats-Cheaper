@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/abe/AndroidStudioProjects/WhatsCheaper/whatscheaper/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="95482e7c792a7c0d5a9d5461e97726bd54fe9549">
+        <dex dex="/Users/abe/AndroidStudioProjects/WhatsCheaper/whatscheaper/build/intermediates/pre-dexed/debug/classes-1c0121faabaf644deaca3dd8bc5413fea41087f2.jar" />
+    </item>
+    <item
+        jar="/Users/abe/AndroidStudioProjects/WhatsCheaper/whatscheaper/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="8f11f56e350eacabf2273f646d981356eea0ed77">
+        <dex dex="/Users/abe/AndroidStudioProjects/WhatsCheaper/whatscheaper/build/intermediates/pre-dexed/debug/classes-736702c9a59e18c13e134d2fe299fb4decc0b3a2.jar" />
+    </item>
+    <item
+        jar="/Users/abe/android-sdks/extras/android/m2repository/com/android/support/support-annotations/21.0.0/support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="/Users/abe/AndroidStudioProjects/WhatsCheaper/whatscheaper/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-e0b0c75584fc416c7af4c680aaf7bee45567daed.jar" />
+    </item>
+    <item
+        jar="/Users/abe/AndroidStudioProjects/WhatsCheaper/whatscheaper/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="41aa21f9c5d9ea9aab32c0b8e33d0c13364063a9">
+        <dex dex="/Users/abe/AndroidStudioProjects/WhatsCheaper/whatscheaper/build/intermediates/pre-dexed/debug/classes-cfeb8b084aab772495d3a3eff08e83dbb233ea52.jar" />
+    </item>
+    <item
+        jar="/Users/abe/AndroidStudioProjects/WhatsCheaper/whatscheaper/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/libs/internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="/Users/abe/AndroidStudioProjects/WhatsCheaper/whatscheaper/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-ca074a04d20792d3294a6ae78b9e87e2956f9968.jar" />
+    </item>
+    <item
+        jar="/Users/abe/AndroidStudioProjects/WhatsCheaper/whatscheaper/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="/Users/abe/AndroidStudioProjects/WhatsCheaper/whatscheaper/build/intermediates/pre-dexed/debug/classes-ff15d6411ae674df124e5f82d440ad917b566188.jar" />
+    </item>
+
+</items>
